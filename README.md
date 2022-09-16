@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jacowu823
+- 👋 Hi, I’m Jaco 
 - 👀 I’m interested in Data Science/ Data Analysis
 - 🔧 I'm familar with python and R
 - 🌱 I’m currently learning SQL
