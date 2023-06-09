@@ -1,10 +1,6 @@
 👋 Hi, I’m Jaco Wu, a MSc Applied Data Science and Statistics graduate at the University of Exeter.
 
-👀 I’m interested in Data Science/ Data Analysis
-
-🔧 I'm familar with python and R
-
-🌱 I’m currently learning SQL
+🔧 I'm a Data Scientist and familar with python and R
 
 📫 How to reach me ... 
          @Linkedin:  www.linkedin.com/in/kwan-ho-wu-jaco   
