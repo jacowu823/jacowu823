@@ -1,12 +1,10 @@
-👋 Hi, I’m Jaco Wu, a MSc Applied Data Science and Statistics graduate at the University of Exeter.
-
-🔧 I'm a Data Scientist and familar with python and R
+👋 Hi, I’m Jaco, a Data Scientist and familiar with python and R. Particularly interested in LLM and NLP !!
 
 📫 How to reach me ... 
          @Linkedin:  www.linkedin.com/in/kwan-ho-wu-jaco   
          @Email: jacowu823@gmail.com
          
-💻 Recent Work : *LDA & Topic Modeling* Project https://www.kaggle.com/code/jacowu/growth-of-machine-learning-in-astrophysics
+💻 Recent Work : document-reader-ai-chatbot
 
 <!---
 jacowu823/jacowu823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
